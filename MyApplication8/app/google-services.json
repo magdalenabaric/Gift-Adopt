@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "29165592413",
+    "project_id": "baric-projekt",
+    "storage_bucket": "baric-projekt.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:29165592413:android:beaaac9602d0f09cf2d2b4",
+        "android_client_info": {
+          "package_name": "hr.ferit.magdalenabaric.myapplication_final"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "29165592413-9ii1ed4466hbcu8989br8q0rm61vjgnd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJWrpOzm95kf9NKLkWNn1ACUrpsvHAl6c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "29165592413-9ii1ed4466hbcu8989br8q0rm61vjgnd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

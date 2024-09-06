@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Gift &amp; Adopt</string>
+    <string name="title">Gift &amp; Adopt</string>
+    <string name="message1">What is your choice?</string>
+    <string name="gift">GIFT</string>
+    <string name="adopt">ADOPT</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="adoptText">Tell us what kind of dog are you looking for?</string>
+    <string name="color">color:</string>
+    <string name="breed">breed:</string>
+    <string name="height">height:</string>
+    <string name="personality">personality:</string>
+    <string name="next">NEXT</string>
+    <string name="giftText">Tell us something about dog that will make someone happy:</string>
+    <string name="name">name:</string>
+    <string name="congrats">\nCongrats!</string>
+    <string name="furFriend">This is your ideal fur friend:</string>
+    <string name="name2">Name</string>
+    <string name="thank">\nThank you for your gift to another person.</string>
+    <string name="sure">\nWe are sure that this dog will make someone happy!!!</string>
+    <string name="back">BACK</string>
+    <string name="start">START</string>
+    <string name="calm">calm</string>
+    <string name="stubborn">stubborn</string>
+    <string name="loyal">loyal</string>
+    <string name="courage">courage</string>
+    <string name="temperament">temperament</string>
+    <string name="jolly">jolly</string>
+    <string name="buttonsAdopt">\nWhich personality would you like your new dog to have?</string>
+    <string name="buttonsGift">\nChoose personality of the dog:</string>
+    <string name="adoptList">Choose your new friend</string>
+</resources>
